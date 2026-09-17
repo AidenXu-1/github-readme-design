@@ -8,12 +8,6 @@
   <a href="https://github.com/AidenXu-1/github-readme-design/issues">问题反馈</a>
 </p>
 
-## 看一个实际案例
-
-[![HTML Deck Studio 经本 Skill 整理后的 GitHub README：用途与下载入口在前，三套风格用内容页展示](docs/html-deck-studio-readme.png)](https://github.com/AidenXu-1/html-deck-studio#readme)
-
-[HTML Deck Studio](https://github.com/AidenXu-1/html-deck-studio#readme)：用已有演示的内容页展示三套风格，精简重复说明，把安装和首次使用接在后面。
-
 ## 交给它什么，会得到什么
 
 提供本地项目文件夹或 GitHub 仓库链接，再说清楚想新写、整体装修，还是只改一部分。
