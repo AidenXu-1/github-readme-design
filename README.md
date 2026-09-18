@@ -42,7 +42,7 @@
 
 ### ① 下载并安装
 
-从[发布页](https://github.com/AidenXu-1/github-readme-design/releases/latest)下载 `github-readme-design-v1.1.1.zip`，解压后将整个 `github-readme-design` 文件夹放入 AI 工具的 Skills 目录。
+从[发布页](https://github.com/AidenXu-1/github-readme-design/releases/latest)下载 `github-readme-design-v1.1.2.zip`，解压后将整个 `github-readme-design` 文件夹放入 AI 工具的 Skills 目录。
 
 Codex 的安装位置：
 
@@ -72,7 +72,7 @@ Codex 的安装位置：
 
 ### ③ 查看草稿
 
-草稿默认保存为 `README.draft.md`，新增图片会一并保存。有预览工具时，AI 会检查排版；查不清的信息会单独列出。
+设计稿默认保存为 `README.design.md`，新增图片会一并保存。有预览工具时，AI 会检查排版；查不清的信息会单独列出。
 
 查看后可以继续修改。确认采用时，再要求替换正式 README 或推送到 GitHub。
 
