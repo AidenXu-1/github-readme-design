@@ -42,7 +42,7 @@
 
 ### ① 下载并安装
 
-从[发布页](https://github.com/AidenXu-1/github-readme-design/releases/latest)下载 `github-readme-design-v1.1.0.zip`，解压后将整个 `github-readme-design` 文件夹放入 AI 工具的 Skills 目录。
+从[发布页](https://github.com/AidenXu-1/github-readme-design/releases/latest)下载 `github-readme-design-v1.1.1.zip`，解压后将整个 `github-readme-design` 文件夹放入 AI 工具的 Skills 目录。
 
 Codex 的安装位置：
 
