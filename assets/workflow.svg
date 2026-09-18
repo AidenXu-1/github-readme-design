@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="44" viewBox="0 0 1200 88" role="img" aria-labelledby="title desc">
+  <title id="title">从读取仓库到交付 README 草稿</title>
+  <desc id="desc">读取仓库，理清用途与读者，挑选真实素材，重组内容与版式，核对链接与事实，交付 README 草稿。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 8 4 0 8Z" fill="#45404f"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="88" fill="#ffffff"/>
+  <g fill="none" stroke="#45404f" stroke-width="1.5" marker-end="url(#arrow)">
+    <path d="M182 44H208"/>
+    <path d="M384 44H410"/>
+    <path d="M586 44H612"/>
+    <path d="M788 44H814"/>
+    <path d="M990 44H1016"/>
+  </g>
+  <g fill="#f0ebff" stroke="#9a82d8" stroke-width="1.3">
+    <rect x="8" y="12" width="174" height="64"/>
+    <rect x="210" y="12" width="174" height="64"/>
+    <rect x="412" y="12" width="174" height="64"/>
+    <rect x="614" y="12" width="174" height="64"/>
+    <rect x="816" y="12" width="174" height="64"/>
+    <rect x="1018" y="12" width="174" height="64"/>
+  </g>
+  <g fill="#29252f" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="20" text-anchor="middle">
+    <text x="95" y="51">读取仓库</text>
+    <text x="297" y="51">理清用途与读者</text>
+    <text x="499" y="51">挑选真实素材</text>
+    <text x="701" y="51">重组内容与版式</text>
+    <text x="903" y="51">核对链接与事实</text>
+    <text x="1105" y="51">README 草稿</text>
+  </g>
+</svg>
